@@ -1,9 +1,9 @@
 {
-  "version": "1.13.0",
-  "file": "app-1.13.0.asar",
-  "size": 2883456,
-  "sha256": "e13955e60b3097250dc59fe1150259eec76d31f5a05cccd771f2fd8f35c1db50",
+  "version": "1.13.1",
+  "file": "app-1.13.1.asar",
+  "size": 2896898,
+  "sha256": "7720589fec305218a131cc1cc686fddbded2e345a5511fba5808b25ccd1ff0d3",
   "electron": "33.2.1",
-  "notes": "자동 업데이트 시작",
-  "date": "2026-11-06T00:25:26.049Z"
+  "notes": "타임라인 · 마우스 올려 삭제 · Ctrl+Z · 하루 순서 바꾸기",
+  "date": "2026-11-06T00:32:19.799Z"
 }
