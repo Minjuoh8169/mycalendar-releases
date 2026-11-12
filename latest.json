@@ -1,9 +1,9 @@
 {
-  "version": "1.13.1",
-  "file": "app-1.13.1.asar",
-  "size": 2896898,
-  "sha256": "7720589fec305218a131cc1cc686fddbded2e345a5511fba5808b25ccd1ff0d3",
+  "version": "1.13.2",
+  "file": "app-1.13.2.asar",
+  "size": 2902679,
+  "sha256": "b004f936dd380bb53d12657218144832bfb97714ce9423d224d3d3ea1ae3d5ea",
   "electron": "33.2.1",
-  "notes": "타임라인 · 마우스 올려 삭제 · Ctrl+Z · 하루 순서 바꾸기",
-  "date": "2026-11-06T00:32:19.799Z"
+  "notes": "회신 대기 며칠째 · 컨펌 중 기록",
+  "date": "2026-11-12T05:34:29.272Z"
 }
